@@ -246,4 +246,5 @@ table{border-collapse:collapse;border-spacing:0;}
 /*#ClickMe{position: absolute;background-color:#fff;display: none;z-index: 1002;}*/
 .close1{position:relative;}
 .close1 #closebt {background-position:-127px 0; display:block; width:11px; height:11px; line-height:1px; position:absolute; top:8px; right:10px;}
+.randomcode{vertical-align:middle;}
 
