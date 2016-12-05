@@ -236,7 +236,8 @@ table{border-collapse:collapse;border-spacing:0;}
 .form_edit .textarea{width:398px;height:120px;}
 .advice_b .textarea{border:1px solid #dedede;padding:2px 4px;}
 .form_edit .text{width:398px;}
-.form_edit .text, .form_edit .verify{height:28px;line-height:28px;border:1px solid #dedede; padding-left:10px;}
+.form_edit .text, .form_edit .verify{height:30px;line-height:30px;border:1px solid #dedede; padding-left:10px;}
+.form_edit .verify{width:130px;}
 .fl{float:left;}
 .advice_b .u{color:#007ad9;text-decoration:underline;}
 .fr{float:right;}
