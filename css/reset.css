@@ -235,8 +235,8 @@ table{border-collapse:collapse;border-spacing:0;}
 .form_edit b{ font-size:13px;}
 .form_edit .textarea{width:398px;height:120px;}
 .advice_b .textarea{border:1px solid #dedede;padding:2px 4px;}
-.form_edit .text{width:398px;}
 .form_edit .text, .form_edit .verify{height:30px;line-height:30px;border:1px solid #dedede; padding-left:10px;}
+.form_edit .text{width:398px;}
 .form_edit .verify{width:130px;}
 .fl{float:left;}
 .advice_b .u{color:#007ad9;text-decoration:underline;}
@@ -244,8 +244,7 @@ table{border-collapse:collapse;border-spacing:0;}
 .advice_b .submit3{margin-top:4px;}
 .fr .submit3{width:76px; height:26px;border:none;border-radius:4px;background:#BE1C1C;color:#fff;font-weight:bold;}
 
-/*#ClickMe{position: absolute;background-color:#fff;display: none;z-index: 1002;}*/
 .close1{position:relative;}
 .close1 #closebt {background-position:-127px 0; display:block; width:11px; height:11px; line-height:1px; position:absolute; top:8px; right:10px;}
-.randomcode{vertical-align:middle;}
+.vam{vertical-align:middle;}
 
